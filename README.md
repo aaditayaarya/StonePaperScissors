@@ -1,1 +1,1 @@
-# StonePaperScissors
+# Stone-Paper-Scissors
